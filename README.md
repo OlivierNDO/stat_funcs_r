@@ -1,1 +1,1 @@
-data processing functions in R
+stats functions in R
