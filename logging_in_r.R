@@ -1,6 +1,6 @@
 # Script config
 library(logging)
-config_log_folder = 'C:/Users/Nicholas.Olivier/Documents/log_archive/'
+config_log_folder = 'C:/.../.../.../.../'
 config_log_file = 'abc_model.log'
 config_logger_name = 'abc_model'
 
